@@ -14,17 +14,16 @@ This repository contains my work for the PwC Switzerland Power BI Virtual Job Si
 1. Power BI
 2. DAX (Data Analysis Expressions)
 3. Microsoft Excel
-4. Data Visualization Best Practices
 
 ## Tasks Completed
 1. Task 1:
-  - Created a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
-  - Utilized the resources provided, including podcasts and articles, to enhance my understanding of data visualization and upskilling.
-  - Responded to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.
+  ✅ Created a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided. <br>
+  ✅ Utilized the resources provided, including podcasts and articles, to enhance my understanding of data visualization and upskilling.<br>
+  ✅ Responded to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.<br>
 2. Task 2:
-  - Created a dashboard using the defined KPIs to reflect customer demographics and insights.
+  ✅ Created a dashboard using the defined KPIs to reflect customer demographics and insights.
 3. Task 3:
-  - Created visualizations to represent HR data, particularly focusing on gender-related KPIs.
+  ✅ Created visualizations to represent HR data, particularly focusing on gender-related KPIs.
 
 📌 Project Summary:
 The project simulated real-world consulting tasks, focusing on business performance analysis and client reporting using Power BI. The experience enhanced my ability to analyze large datasets, create compelling visualizations, and provide actionable insights.
