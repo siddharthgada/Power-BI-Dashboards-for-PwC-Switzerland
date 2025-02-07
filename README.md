@@ -15,7 +15,7 @@ This repository contains my work for the PwC Switzerland Power BI Virtual Job Si
 2. DAX (Data Analysis Expressions)
 3. Microsoft Excel
 
-✅ Tasks Completed
+✅ Tasks Completed:
 1. Task 1:<br>
   - Created a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided. <br>
   - Utilized the resources provided, including podcasts and articles, to enhance my understanding of data visualization and upskilling.<br>
