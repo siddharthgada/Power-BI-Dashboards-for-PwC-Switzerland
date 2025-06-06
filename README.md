@@ -34,5 +34,5 @@ The project simulated real-world consulting tasks, focusing on business performa
   ## 👤 Author
 
 **Siddharth Gada**  
-📧 Email: gadasiddharth@gmail.com 
+📧 Email: gadasiddharth@gmail.com <br>
 🔗 [LinkedIn] (https://www.linkedin.com/in/siddharthgada/)
