@@ -35,4 +35,4 @@ The project simulated real-world consulting tasks, focusing on business performa
 
 **Siddharth Gada**  
 📧 Email: gadasiddharth@gmail.com <br>
-🔗 LinkedIn: (https://www.linkedin.com/in/siddharthgada/)
+🔗 LinkedIn: https://www.linkedin.com/in/siddharthgada/
