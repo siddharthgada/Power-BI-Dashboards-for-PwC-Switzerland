@@ -30,3 +30,9 @@ This repository contains my work for the PwC Switzerland Power BI Virtual Job Si
 
 📌 Project Summary:
 The project simulated real-world consulting tasks, focusing on business performance analysis and client reporting using Power BI. The experience enhanced my ability to analyze large datasets, create compelling visualizations, and provide actionable insights.
+
+  ## 👤 Author
+
+**Siddharth Gada**  
+📧 Email: gadasiddharth@gmail.com 
+🔗 LinkedIn: [[your-link]  ](https://www.linkedin.com/in/siddharthgada/)
